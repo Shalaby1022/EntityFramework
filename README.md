@@ -28,6 +28,7 @@ Technologies Used :
 
 
 Usage
+
 . Launch the application
 
 . The main window displays separate tabs for managing authors, posts, and categories
