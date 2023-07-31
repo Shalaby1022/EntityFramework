@@ -27,7 +27,7 @@ Technologies Used :
 . Microsoft SQL Server: The relational database management system used to store blog data
 
 
-Usage
+Usage :
 
 . Launch the application
 
